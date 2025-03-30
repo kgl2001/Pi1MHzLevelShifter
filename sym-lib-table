@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1MHzAdaptor")(type "KiCad")(uri "${KIPRJMOD}/1MHzAdaptor.kicad_sym")(options "")(descr ""))
+)
